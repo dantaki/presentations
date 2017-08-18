@@ -4,7 +4,7 @@
 
 ---
 
-* [Slides]()
+## [Slides](https://github.com/dantaki/presentations/blob/master/advanced_statistics/antaki_sv2.pptx)
 
 ### [learn python](https://www.codecademy.com/learn/learn-python)
 
@@ -29,4 +29,4 @@
 
 * [SV<sup>2</sup> Tutorial](https://github.com/dantaki/SV2/blob/master/doc/README.md#tutorial)
 
-
+![alt text](https://github.com/dantaki/presentations/blob/master/advanced_statistics/sv2.gif "sv2 tutorial")
