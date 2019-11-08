@@ -20,4 +20,5 @@ Introduction to Michael Talkowski's Seminar
 
 ## Data:
 
-[HG00733 7kb Jumping Insert WGS](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/data/PUR/HG00733/sv_7kb_mate/)
+HG00733 7kb Jumping Insert WGS
+* ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/hgsv_sv_discovery/data/PUR/HG00733/sv_7kb_mate/
